@@ -156,6 +156,7 @@
 		CF4D74EE1A7048E900D69EE3 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Teak Mobile Inc";
 				TargetAttributes = {
@@ -405,6 +406,7 @@
 				CF4D75171A7048E900D69EE3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CF4D75181A7048E900D69EE3 /* Build configuration list for PBXNativeTarget "UIKitTestTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +415,7 @@
 				CF4D751A1A7048E900D69EE3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
